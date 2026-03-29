@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "stickers": [
+    { "id": "cat_smile",    "name": "微笑猫咪",  "rarity": "普通", "theme": "动物" },
+    { "id": "dog_happy",    "name": "开心小狗",  "rarity": "普通", "theme": "动物" },
+    { "id": "rabbit",       "name": "小兔兔",    "rarity": "普通", "theme": "动物" },
+    { "id": "bear",         "name": "棕熊",      "rarity": "普通", "theme": "动物" },
+    { "id": "pizza",        "name": "披萨",      "rarity": "普通", "theme": "美食" },
+    { "id": "ice_cream",    "name": "冰淇淋",    "rarity": "普通", "theme": "美食" },
+    { "id": "rocket",       "name": "火箭",      "rarity": "稀有", "theme": "太空" },
+    { "id": "star",         "name": "闪亮星星",  "rarity": "稀有", "theme": "太空" },
+    { "id": "rainbow",      "name": "彩虹",      "rarity": "稀有", "theme": "自然" },
+    { "id": "diamond",      "name": "钻石",      "rarity": "超稀有", "theme": "宝石" },
+    { "id": "crown",        "name": "皇冠",      "rarity": "超稀有", "theme": "特别" },
+    { "id": "dragon",       "name": "神龙",      "rarity": "传说", "theme": "神话" }
+  ]
+}
