@@ -1,17 +1,320 @@
 {
   "version": 1,
   "stickers": [
-    { "id": "cat_smile",    "name": "微笑猫咪",  "rarity": "普通", "theme": "动物" },
-    { "id": "dog_happy",    "name": "开心小狗",  "rarity": "普通", "theme": "动物" },
-    { "id": "rabbit",       "name": "小兔兔",    "rarity": "普通", "theme": "动物" },
-    { "id": "bear",         "name": "棕熊",      "rarity": "普通", "theme": "动物" },
-    { "id": "pizza",        "name": "披萨",      "rarity": "普通", "theme": "美食" },
-    { "id": "ice_cream",    "name": "冰淇淋",    "rarity": "普通", "theme": "美食" },
-    { "id": "rocket",       "name": "火箭",      "rarity": "稀有", "theme": "太空" },
-    { "id": "star",         "name": "闪亮星星",  "rarity": "稀有", "theme": "太空" },
-    { "id": "rainbow",      "name": "彩虹",      "rarity": "稀有", "theme": "自然" },
-    { "id": "diamond",      "name": "钻石",      "rarity": "超稀有", "theme": "宝石" },
-    { "id": "crown",        "name": "皇冠",      "rarity": "超稀有", "theme": "特别" },
-    { "id": "dragon",       "name": "神龙",      "rarity": "传说", "theme": "神话" }
+    {
+      "id": "19081801_Happy_Llama_Stickers",
+      "name": "快乐羊驼 01",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081801 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081802_Happy_Llama_Stickers",
+      "name": "快乐羊驼 02",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081802 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081803_Happy_Llama_Stickers",
+      "name": "快乐羊驼 03",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081803 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081804_Happy_Llama_Stickers",
+      "name": "快乐羊驼 04",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081804 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081805_Happy_Llama_Stickers",
+      "name": "快乐羊驼 05",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081805 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081806_Happy_Llama_Stickers",
+      "name": "快乐羊驼 06",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081806 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081807_Happy_Llama_Stickers",
+      "name": "快乐羊驼 07",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081807 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081808_Happy_Llama_Stickers",
+      "name": "快乐羊驼 08",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081808 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081809_Happy_Llama_Stickers",
+      "name": "快乐羊驼 09",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081809 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081810_Happy_Llama_Stickers",
+      "name": "快乐羊驼 10",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081810 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081811_Happy_Llama_Stickers",
+      "name": "快乐羊驼 11",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081811 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081812_Happy_Llama_Stickers",
+      "name": "快乐羊驼 12",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081812 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081813_Happy_Llama_Stickers",
+      "name": "快乐羊驼 13",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081813 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081814_Happy_Llama_Stickers",
+      "name": "快乐羊驼 14",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081814 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081815_Happy_Llama_Stickers",
+      "name": "快乐羊驼 15",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081815 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081816_Happy_Llama_Stickers",
+      "name": "快乐羊驼 16",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081816 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081817_Happy_Llama_Stickers",
+      "name": "快乐羊驼 17",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081817 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081818_Happy_Llama_Stickers",
+      "name": "快乐羊驼 18",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081818 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081819_Happy_Llama_Stickers",
+      "name": "快乐羊驼 19",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081819 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081820_Happy_Llama_Stickers",
+      "name": "快乐羊驼 20",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081820 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081821_Happy_Llama_Stickers",
+      "name": "快乐羊驼 21",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081821 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081822_Happy_Llama_Stickers",
+      "name": "快乐羊驼 22",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081822 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081823_Happy_Llama_Stickers",
+      "name": "快乐羊驼 23",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081823 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081824_Happy_Llama_Stickers",
+      "name": "快乐羊驼 24",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081824 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081825_Happy_Llama_Stickers",
+      "name": "快乐羊驼 25",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081825 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081826_Happy_Llama_Stickers",
+      "name": "快乐羊驼 26",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081826 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081827_Happy_Llama_Stickers",
+      "name": "快乐羊驼 27",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081827 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081828_Happy_Llama_Stickers",
+      "name": "快乐羊驼 28",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081828 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081829_Happy_Llama_Stickers",
+      "name": "快乐羊驼 29",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081829 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081830_Happy_Llama_Stickers",
+      "name": "快乐羊驼 30",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081830 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081831_Happy_Llama_Stickers",
+      "name": "快乐羊驼 31",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081831 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081832_Happy_Llama_Stickers",
+      "name": "快乐羊驼 32",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081832 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081833_Happy_Llama_Stickers",
+      "name": "快乐羊驼 33",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081833 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081834_Happy_Llama_Stickers",
+      "name": "快乐羊驼 34",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081834 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081835_Happy_Llama_Stickers",
+      "name": "快乐羊驼 35",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081835 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081836_Happy_Llama_Stickers",
+      "name": "快乐羊驼 36",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081836 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081837_Happy_Llama_Stickers",
+      "name": "快乐羊驼 37",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081837 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081838_Happy_Llama_Stickers",
+      "name": "快乐羊驼 38",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081838 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081839_Happy_Llama_Stickers",
+      "name": "快乐羊驼 39",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081839 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081840_Happy_Llama_Stickers",
+      "name": "快乐羊驼 40",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081840 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081841_Happy_Llama_Stickers",
+      "name": "快乐羊驼 41",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081841 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081842_Happy_Llama_Stickers",
+      "name": "快乐羊驼 42",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081842 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081843_Happy_Llama_Stickers",
+      "name": "快乐羊驼 43",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081843 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081844_Happy_Llama_Stickers",
+      "name": "快乐羊驼 44",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081844 Happy Llama Stickers.png"
+    },
+    {
+      "id": "19081845_Happy_Llama_Stickers",
+      "name": "快乐羊驼 45",
+      "rarity": "普通",
+      "theme": "动物",
+      "file": "stickers/common/19081845 Happy Llama Stickers.png"
+    }
   ]
 }
